@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20211027</pubdate>
+                <title>Census Tracts 2020 Redistricting Data</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The US Census Bureau census tracts for the Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area (MSA). Tract boundaries are released from the Census Bureau every 10 years. Includes population (POP), race and ethnicity attributes. Source: Census redistricting data [P.L. 94-171]. This is official RLIS data. Contact Person: Joe Gordon joe.gordon@oregonmetro.gov 503-797-1587 RLIS Metadata Viewer: https://gis.oregonmetro.gov/rlis-metadata/#/details/3723 RLIS Terms of Use: https://rlisdiscovery.oregonmetro.gov/pages/terms-of-use</abstract>
+            <purpose>The data are created to serve as base information for use in GIS systems for a variety of planning and analysis purposes.</purpose>
+            <supplinf>The full 2020 Census files will be released sometime in 2022, at which point additional data updates will be provided.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20211027</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Ground condition</current>
+        </timeperd>
+        <status>
+            <progress>In work</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-123.153528597</westbc>
+                <eastbc>-122.367487422</eastbc>
+                <northbc>45.70263875</northbc>
+                <southbc>45.23396470</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Census</themekey>
+                <themekey>tract</themekey>
+                <themekey>demographics</themekey>
+                <themekey>census bureau</themekey>
+                <themekey>population</themekey>
+                <themekey>race</themekey>
+                <themekey>ethnicity</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Portland</placekey>
+                <placekey>Columbia County</placekey>
+                <placekey>Multnomah County</placekey>
+                <placekey>Washington County</placekey>
+                <placekey>Clackamas County</placekey>
+                <placekey>Yamhill County</placekey>
+                <placekey>Oregon</placekey>
+                <placekey>Clark County</placekey>
+                <placekey>Skamania County</placekey>
+                <placekey>Washington</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This database and GIS data are made available under the Open Database License (ODbL v1) and Database Content License (DbCL v1). See https://www.oregonmetro.gov/rlis-live.</useconst>
+        <browse>
+            <browsen>http://library.oregonmetro.gov/rlisdiscovery/browse_graphic/tract2020.png</browsen>
+            <browsed>Blue polygons representing 2020 census tracts on a gray basemap of the region for orientation.</browsed>
+            <browset>PNG</browset>
+        </browse>
+    </idinfo>
+    <dataqual>
+        <lineage>
+            <procstep>
+                <procdesc>Geographic boundaries downloaded from https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html and attribute data downloaded from data.census.gov.</procdesc>
+                <procdate>20211025</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype/>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>tract2020</enttypl>
+                <enttypd>2020 Census Tracts with Redistricting Data</enttypd>
+            </enttyp>
+            <attr>
+                <attrlabl>STATE</attrlabl>
+                <attrdef>Two digit state federal information processing standards (FIPS) code.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>COUNTY</attrlabl>
+                <attrdef>Three digit county federal information processing standards (FIPS) code.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>TRACT</attrlabl>
+                <attrdef>Six digit tract number with leading zero (where necessary) and without two digit suffix.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>TRACT_NO</attrlabl>
+                <attrdef>Five digit tract number without leading zeros, including two digit suffix.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>FIPS2020</attrlabl>
+                <attrdef>Concatenation of state, county, and six digit tract identifiers.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_001N</attrlabl>
+                <attrdef>Total Population</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_002N</attrlabl>
+                <attrdef>Hispanic or Latino</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_005N</attrlabl>
+                <attrdef>White</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_006N</attrlabl>
+                <attrdef>Black or African American</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_007N</attrlabl>
+                <attrdef>American Indian and Alaska Native</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_008N</attrlabl>
+                <attrdef>Asian</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_009N</attrlabl>
+                <attrdef>Native Hawaiian and Other Pacific Islander</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_010N</attrlabl>
+                <attrdef>Some other race</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>P2_011N</attrlabl>
+                <attrdef>Two or more races</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Metro Data Resource Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <address>600 NE Grand Ave.</address>
+                    <city>Portland</city>
+                    <state>OR</state>
+                    <postal>97232</postal>
+                </cntaddr>
+                <cntvoice>503 797-1742</cntvoice>
+                <cntfax>503 797-1909</cntfax>
+                <cntemail>drc@oregonmetro.gov</cntemail>
+            </cntinfo>
+        </distrib>
+        <resdesc>Email drc@oregonmetro.gov or call 503-797-1742 for further instructions.</resdesc>
+        <distliab>The information in this file was derived from digital databases on Metro's GIS. Care was taken in the creation of this file. Metro cannot accept any responsibility for errors, omissions, or positional accuracy. There are no warranties, expressed or implied.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>File Geodatabase</formname>
+                    <transize>0</transize>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.oregonmetro.gov/rlisdiscovery</networkr>
+                            </networka>
+                        </computer>
+                        <accinstr>Email drc@oregonmetro.gov or call 503-797-1742 for further instructions.</accinstr>
+                    </onlinopt>
+                    <offoptn>
+                        <offmedia/>
+                        <recfmt>ISO 9660</recfmt>
+                    </offoptn>
+                </digtopt>
+            </digform>
+            <fees>No cost</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20220627</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Metro Data Resource Center</cntorg>
+                    <cntper>Joe Gordon</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>600 NE Grand Ave.</address>
+                    <city>Portland</city>
+                    <state>OR</state>
+                    <postal>97232</postal>
+                </cntaddr>
+                <cntvoice>503-797-1587</cntvoice>
+                <cntfax>503-797-1909</cntfax>
+                <cntemail>joe.gordon@oregonmetro.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
