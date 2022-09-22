@@ -17,7 +17,7 @@ The following map shows the Portland quadrants by census tracts and displays the
 ![Portland Population by "Quadrant" Image](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/quadrants_map.png)
 
 Portland Neighborhood Associations:
-* Portland Neighborhood Associations are already an geographically organized communities that have a political voice.
+* [Portland Neighborhood Associations](https://www.portlandoregon.gov/civic/index.cfm?c=28385) are already an geographically organized communities that have a political voice.
 
 The following map shows the Portland neighborhood association groups by census tract population per group.
 
