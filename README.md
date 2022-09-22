@@ -8,6 +8,7 @@ Portland population distribution:
 * While it would be easy to draw the potentital new district lines along Portland's five "quadrants" (not including South), the distribution of population in Portland is not equal among these quadrants.
 * The largest quadrant by population is Southeast, whereas the smallest quadrant by population is North.
 
+The following map shows the Portland quadrants by census tracts:
 ![Portland Population by "Quadrant" Image](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/quadrants_map.png)
 
 Conclusion (Draft):
