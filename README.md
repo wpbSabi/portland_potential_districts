@@ -26,7 +26,7 @@ The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic
 The population by neighborhood association (estimated by census tract) is:
 CNN	  46,064
 
-EPNO	150,280
+EPCO	150,280
 
 NECN	69,748
 
