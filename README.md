@@ -16,6 +16,12 @@ The following map shows the Portland quadrants by census tracts and displays the
 
 ![Portland Population by "Quadrant" Image](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/quadrants_map.png)
 
+Portland Neighborhood Associations:
+* Portland Neighborhood Associations are already an geographically organized communities that have a political voice.
+
+The following map shows the Portland neighborhood association groups by census tract population per group.
+
+
 Conclusion (Draft):
 * There have been several approaches shared for mapping equal-population districts for Portland in the case that the city charter is updated to have districts.  However, each district has pros and cons; there is not a perfect map.
 * Fortunately, the city charter update would take into account that there are no perfect maps.  Each district would have three representatives and each of them would be elected by ranked-choice voting in the same election.  
