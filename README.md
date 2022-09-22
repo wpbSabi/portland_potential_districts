@@ -30,7 +30,7 @@ Portland Neighborhood Associations:
 | SEUL  | 171,566  |
 | SWNI  | 105,124  |
 
-The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups by census tract population per group:
+The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups:
 
 ![Portland Neighborhood Associations](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/portland_neighborhood_associations.png)
 
