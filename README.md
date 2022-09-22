@@ -19,7 +19,18 @@ The following map shows the Portland quadrants by census tracts and displays the
 Portland Neighborhood Associations:
 * [Portland Neighborhood Associations](https://www.portlandoregon.gov/civic/index.cfm?c=28385) are already an geographically organized communities that have a political voice.
 
-The following map shows the Portland neighborhood association groups by census tract population per group.
+The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups by census tract population per group:
+
+![Portland Neighborhood Associations](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/portland_neighborhood_associations.png)
+
+The population by neighborhood association (estimated by census tract) is:
+CNN	  46,064
+EPNO	150,280
+NECN	69,748
+NPNS	71,070
+NWNW	42,018
+SEUL	171,566
+SWNI	105,124
 
 
 Conclusion (Draft):
