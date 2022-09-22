@@ -24,20 +24,15 @@ The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic
 ![Portland Neighborhood Associations](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/portland_neighborhood_associations.png)
 
 The population by neighborhood association (estimated by census tract) is:
-CNN	  46,064
-
-EPCO	150,280
-
-NECN	69,748
-
-NPNS	71,070
-
-NWNW	42,018
-
-SEUL	171,566
-
-SWNI	105,124
-
+| Neighborhood Association Group  | Population (estimated by census tract) |
+| ------------- | ------------- |
+| CNN | 46,064  |
+| EPCO  | 150,280  |
+| NECN  | 69,748  |
+| NPNS  | 71,070  |
+| NWNW  | 42,018  |
+| SEUL  | 171,566  |
+| SWNI  | 105,124  |
 
 
 Conclusion (Draft):
