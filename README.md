@@ -50,10 +50,12 @@ While developing options for the four potential districts, the following resourc
 ![Option 1](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.png)
 
 ## Option 2 - Keeps similar community districts close, in the author's opinion
+* [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.html)
 * NW, SW and Sellwood 
 * N and Forest Park 
 * East Portland 
 * SE (less Sellwood)
+![Option 2](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.png)
 
 ## Option 3 - Keeps the most dense communities in the same district
 * NW, SW, with Inner NE and SE
