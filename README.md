@@ -39,7 +39,8 @@ While developing options for the four potential districts, the following resourc
 * [Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/tracts.png)
 * [Population by Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/population.png)
 
-## Option 1 - 
+## Option 1 - NW, SW, and St John's in one district - East Portland in one District
+![Option 1](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.png)
 
 ## Option 2 - 
 
