@@ -41,7 +41,7 @@ While developing options for the four potential districts, the following resourc
 
 
 
-## Option 1 - Keeps districts close to neighborhood association group districts 
+## Option 1 - Keep districts close to neighborhood association group districts 
 * [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.html)
 * NW, SW, and St John's from N
 * East 
@@ -49,7 +49,7 @@ While developing options for the four potential districts, the following resourc
 * NE (plus inner N)
 ![Option 1](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.png)
 
-## Option 2 - Keeps similar communities within districts
+## Option 2 - Keep similar communities within districts
 * [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.html)
 * NW, SW and Sellwood 
 * N and Forest Park 
@@ -57,10 +57,11 @@ While developing options for the four potential districts, the following resourc
 * SE (less Sellwood)
 ![Option 2](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.png)
 
-## Option 3 - Keeps the most dense communities in the same district
-* NW, SW, with Inner NE and SE
+## Option 3 - Keep the most dense communities in the same district
+* The 24 most dense census tracts are in inner NW/SW/NE/SE
 
-## Option 4 
+
+## Option 4 - 
 * Outer NE as part of NE district
 * Outer SE as part of SE district
 
