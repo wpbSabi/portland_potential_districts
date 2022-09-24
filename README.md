@@ -39,18 +39,29 @@ While developing options for the four potential districts, the following resourc
 * [Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/tracts.png)
 * [Population by Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/population.png)
 
-## Option 1
-* NW, SW, and St John's in one district 
-* East Portland in one District
+## Option 1 - Keeps districts close to neighborhood association group districts (but splits North Portland)
+* NW, SW, and St John's from N
+* East 
+* SE (less a little in the East)
+* NE (plus inner N)
 ![Option 1](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.png)
 
-## Option 2 - 
+## Option 2 - Keeps similar community districts close, in the author's opinion
+* NW, SW and Sellwood 
+* N and Forest Park 
+* East Portland 
+* SE (less Sellwood)
 
-## Option 3 - 
+## Option 3 - Keeps the most dense communities in the same district
+* NW, SW, with Inner NE and SE
 
-## Option 4 - 
+## Option 4 
+* Outer NE as part of NE district
+* Outer SE as part of SE district
 
-## Option 5 - 
+## Option 5 
+
+
 
 
 # Conclusion (Draft):
