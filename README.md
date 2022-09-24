@@ -34,7 +34,7 @@ The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic
 | SWNI  | 105,124  |
 
 
-# Options 
+# Options for Creating City Council Districts
 While developing options for the four potential districts, the following resources can be helpful:
 * [Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/tracts.png)
 * [Population by Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/population.png)
