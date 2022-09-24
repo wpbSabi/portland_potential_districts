@@ -39,7 +39,10 @@ While developing options for the four potential districts, the following resourc
 * [Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/tracts.png)
 * [Population by Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/population.png)
 
-## Option 1 - Keeps districts close to neighborhood association group districts (but splits North Portland)
+
+
+## Option 1 - Keeps districts close to neighborhood association group districts (but splits North Portland) 
+* [Link to interactive html map to zoom into street level](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.html)
 * NW, SW, and St John's from N
 * East 
 * SE (less a little in the East)
