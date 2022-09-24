@@ -1,4 +1,4 @@
-# Portland - Potential city council districts modeled with 2020 census tract data 
+# Portland's Potential City Council Districts
 
 Background:
 * There is a city charter on the ballot for Portland, Oregon on November 8, 2022.  As part of this city charter update, Portland would establish four city council districts.  Read more about that change from [Portland United for Change](https://portlandunitedforchange.com/about).
@@ -20,6 +20,9 @@ The following map shows the Portland quadrants by census tracts and displays the
 * [Portland Neighborhood Associations](https://www.portlandoregon.gov/civic/index.cfm?c=28385) are already an geographically organized communities that have a political voice.
 * The population by neighborhood association is not easily combined into four city council districts.
 
+The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups:
+
+![Portland Neighborhood Associations](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/portland_neighborhood_associations.png)
 | Neighborhood Association Group  | Population (estimated by census tract) |
 | ------------- | ------------- |
 | CNN | 46,064  |
@@ -30,18 +33,15 @@ The following map shows the Portland quadrants by census tracts and displays the
 | SEUL  | 171,566  |
 | SWNI  | 105,124  |
 
-The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups:
 
-![Portland Neighborhood Associations](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/portland_neighborhood_associations.png)
-
-# Options (Draft)
+# Options 
 While developing options for the four potential districts, the following resources can be helpful:
 * [Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/tracts.png)
 * [Population by Tract Map](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/population.png)
 
 
 
-## Option 1 - Keeps districts close to neighborhood association group districts (but splits North Portland) 
+## Option 1 - Keeps districts close to neighborhood association group districts 
 * [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.html)
 * NW, SW, and St John's from N
 * East 
@@ -49,7 +49,7 @@ While developing options for the four potential districts, the following resourc
 * NE (plus inner N)
 ![Option 1](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_1.png)
 
-## Option 2 - Keeps similar community districts close, in the author's opinion
+## Option 2 - Keeps similar communities within districts
 * [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.html)
 * NW, SW and Sellwood 
 * N and Forest Park 
