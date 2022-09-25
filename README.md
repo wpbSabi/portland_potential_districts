@@ -66,17 +66,8 @@ While developing options for the four potential districts, the following resourc
 ![Option 3](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_3.png)
 
 
-## Option 4 - 
-* Outer NE as part of NE district
-* Outer SE as part of SE district
-
-## Option 5 
-
-
-
-
-# Conclusion (Draft):
-* There have been several approaches shared for mapping equal-population districts for Portland in the case that the city charter is updated to have districts.  However, each district has pros and cons; there is not a perfect map.
-* Fortunately, the city charter update would take into account that there are no perfect maps.  Each district would have three representatives and each of them would be elected by ranked-choice voting in the same election.  
-* That way, communities within each district can have their representative of choice elected, as long as that candidate is one of the top three vote earners in the election. See [Portland United for Change](https://portlandunitedforchange.com/about) for more details.
+# Conclusion:
+* While each approach/option meets good objectives, drawing perfect districts is not possible. 
+* Fortunately, the city charter update would take into account that there are no perfect maps.  Each district would have three representatives and each of those representatives would be elected by ranked-choice voting in the same election.  That is to say, the top three candidates for each district would win a seat on the city council. 
+* That way, multiple communities within each district can have their representative of choice elected, as long as that candidate is one of the top three vote earners in the election. See [Portland United for Change](https://portlandunitedforchange.com/about) for more details.
 
