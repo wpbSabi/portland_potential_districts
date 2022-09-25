@@ -58,7 +58,12 @@ While developing options for the four potential districts, the following resourc
 ![Option 2](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.png)
 
 ## Option 3 - Keep the most dense communities in the same district
+* [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_3.html)
 * The 24 most dense census tracts are in inner NW/SW/NE/SE
+* Inner Southeast and West
+* North and Northeast
+* Outer Southeast
+![Option 3](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_3.png)
 
 
 ## Option 4 - 
