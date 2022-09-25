@@ -58,6 +58,10 @@ While developing options for the four potential districts, the following resourc
 ![Option 2](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_2.png)
 
 ## Option 3 - Keep the most dense communities in the same district
+The following density map is calculated as Population / GISacres for each census tract; the density is correct although the numbers might not be particularly meaningful.  In this map we can see that Portland's central density is greater than the outer density, but not by a particularly large degree:
+![Density](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/density_zoom.png)
+
+Here's the district map for Option 3:
 * [Link to interactive html map to zoom into street level - and then click Download](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/option_3.html)
 * The 24 most dense census tracts are in inner NW/SW/NE/SE
 * Inner Southeast and West
