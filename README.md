@@ -6,10 +6,10 @@ Background:
 
 Data:
 * The data used in this analysis is for educational purposes only.
-* Although the 2020 Census Data is available to the public, [Portland State University](https://www.pdx.edu/population-research/census-data-oregon) and [Oregon Metro](https://rlisdiscovery.oregonmetro.gov/datasets/census-tracts-2020-redistricting-data) made this data accessibale.  The Oregon Metro data was particularly helpful for the mapmaking due to the shapefiles provided, and the Portland State University data was particularly helpful due to the documentation about the fields in the data.
+* Although the 2020 Census Data is available to the public, [Portland State University](https://www.pdx.edu/population-research/census-data-oregon) and [Oregon Metro](https://rlisdiscovery.oregonmetro.gov/datasets/census-tracts-2020-redistricting-data) made this data accessible.  The Oregon Metro data was particularly helpful for the mapmaking due to the shapefiles provided, and the Portland State University data was particularly helpful due to the documentation about the fields in the data.
 
 # Portland population distribution:
-* While it would be easy to draw the potentital new district lines along Portland's five "quadrants" (not including South), the distribution of population in Portland is not equal among these quadrants.
+* While it would be easy to draw the potential new district lines along Portland's five "quadrants" (not including South), the distribution of population in Portland is not equal among these quadrants.
 * The largest quadrant by population is Southeast, whereas the smallest quadrant by population is North.
 
 The following map shows the Portland quadrants by census tracts and displays the population per quadrant:
@@ -17,7 +17,7 @@ The following map shows the Portland quadrants by census tracts and displays the
 ![Portland Population by "Quadrant" Image](https://github.com/wpbSabi/portland_potential_districts/blob/main/images/quadrants_map.png)
 
 # Portland Neighborhood Associations:
-* [Portland Neighborhood Associations](https://www.portlandoregon.gov/civic/index.cfm?c=28385) are already an geographically organized communities that have a political voice.
+* [Portland Neighborhood Associations](https://www.portlandoregon.gov/civic/index.cfm?c=28385) are already geographically organized communities that have a political voice.
 * The population by neighborhood association is not easily combined into four city council districts.
 
 The following map from [portlandoregon.gov](https://www.portlandoregon.gov/civic/index.cfm?c=28385) shows the Portland neighborhood association groups:
